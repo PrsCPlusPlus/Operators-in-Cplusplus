@@ -1,5 +1,5 @@
 /*
-PRN-22070123094
+PRN-22070123087
 Exp-3 = Part A*/
 #include<iostream>
 using namespace std;
@@ -20,9 +20,9 @@ int main()
 /*
 OUTPUT
 Enter your prn:
-123094
-4
-9
+123087
+7
+8
 0
 3
 2
